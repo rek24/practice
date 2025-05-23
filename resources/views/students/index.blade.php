@@ -37,6 +37,7 @@
                                     <th>Address</th>
                                     <th>Zip</th>
                                     <th>Actions</th>
+                                    <th>Feedback</th>
                                 </tr>
                             </thead>
                             <tbody>
